@@ -2,7 +2,7 @@
 
 **Purpose:** Portfolio Project
 
-**Technology Used:** HTML and CSS
+**Technology Used:** HTML, CSS and Bootstrap
 
 **Date Created:** August 22, 2019
 
